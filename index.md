@@ -1,4 +1,3 @@
-![image](https://github.com/Zhucheng-Shao/Zhucheng-Shao.github.io/assets/153201902/3d505730-2d78-4b4c-a886-dff8c8f9be87)---
 layout: homepage
 ---
 
