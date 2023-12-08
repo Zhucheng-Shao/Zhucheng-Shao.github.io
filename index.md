@@ -32,6 +32,11 @@ As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. H
 - Quantitative Research Methods
 
 ## Skill
+- Partial Least Squares Structural Equation Modeling (PLS-SEM)
+- Artificial Neural Network (ANN)
+- fuzzy set qualitative comparative analysis (fsQCA)
+- Regression Analysis
+- Necessary Condition Analysis (NCA)
 
 
 <!-- {% include_relative _includes/publications.md %} -->
