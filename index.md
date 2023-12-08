@@ -7,6 +7,16 @@ Zhucheng joined the PhD studies in the School of Social Sciences | Edinburgh Bus
 
 As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. His research is intricately linked to the challenges prevailing in the industry and academia. His objective is to ardently contribute to advancing the frontiers of science through my research and to be devoted to broadening the horizons of knowledge to enhance the industry.
 
+## Education and Qualification
+- <b>Heriot-Watt University </b> <br>
+  2022 - Present <br>
+  PhD in Marketing <br>
+  Supervisor(s): Assoc. Prof. [Jessica Sze Yin Ho](https://www.hw.ac.uk/ebs/people/faculty/jessica-sze-yin-ho.htm), Assoc. Prof. [Ian Grant](https://www.hw.ac.uk/ebs/people/faculty/ian-grant.htm) <br>
+
+- <b>UCSI University </b> <br>
+  2019 - 2022 <br>
+  BA in Business Administration <br>
+  Supervisor: Dr. [Remie Johan](https://www.ucsiuniversity.edu.my/dr-mohd-remie-mohd-johan) <br>
 
 ## Research Interests
 - Live Streaming Commerce
@@ -14,9 +24,6 @@ As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. H
 - Brand Marketing
 - Consumer Studies
 - Quantitative Research Methods
-
-## Awards
-- **[hahMay. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
 
 
 <!-- {% include_relative _includes/publications.md %} -->
