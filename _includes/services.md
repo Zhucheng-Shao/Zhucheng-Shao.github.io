@@ -12,7 +12,7 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://onlinelibrary.wiley.com/journal/14706431" target="_blank"> International Journal of Consumer Studies </a></li>
-  <li><a href="https://www.jmcp.org" target="_blank"> Journal of Managed Care & Specialty Pharmacy </a></li>
+  <li><a href="https://www.emerald.com/insight/publication/issn/2040-7122" target="_blank"> Journal of Research in Interactive Marketing </a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>
