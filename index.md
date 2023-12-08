@@ -63,11 +63,3 @@ As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. H
 
 {% include_relative _includes/services.md %}
 
-
-## Resources
-
-<!-- https://yuhangzhou88.github.io/ESL_Solution/  -->
-- <a href="https://yuhangzhou88.github.io/ESL_Solution/" target="_blank">*A Solution Manual of The Elements of Statistical Learning*</a> by Yuhang Zhou 
-- <a href="https://github.com/Hanchao-Zhang/LeetQuant-Note/blob/main/Quant%20Research.pdf" target="_blank">*A Quantatitive Research Interview Prep*</a> by Hanchao Zhang
-
-
