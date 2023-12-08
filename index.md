@@ -8,6 +8,11 @@ Zhucheng joined the PhD studies in the School of Social Sciences | Edinburgh Bus
 As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. His research is intricately linked to the challenges prevailing in the industry and academia. His objective is to ardently contribute to advancing the frontiers of science through my research and to be devoted to broadening the horizons of knowledge to enhance the industry.
 
 ## Education and Qualification
+- <b>Heriot-Watt University</b> <br>
+  2023 <br>
+  PG Certificate in Business Research Methods <br>
+  Grade: Distinction
+
 - <b>Heriot-Watt University </b> <br>
   2022 - Present <br>
   PhD in Marketing <br>
