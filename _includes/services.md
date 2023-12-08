@@ -16,14 +16,9 @@
 </ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
-  <li><a href="link.springer.com/book/10.1007/978-3-031-20429-6?sv1=affiliate&sv_campaign_id=685769&awc=26429_1702004966_de8ef54fa6f34ba56622f00cc14bfe8b&utm_medium=affiliate&utm_source=awin&utm_campaign=CONR_BOOKS_ECOM_DE_PHSS_ALWYS_DEEPLINK&utm_content=textlink&utm_term=685769" target="_blank"> 2nd International Conference on Emerging Technologies and Intelligent Systems </a></li>
-
-
-
-<h4 style="margin:0 10px 0;">Membership & Activities</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><strong>[2019-present]</strong> Member of the <a href="https://www.amstat.org/" target="_blank"> American Statistical Association </a></li>
-  <li><strong>[2019-present]</strong> Member of the <a href="https://www.biometricsociety.org/home" target="_blank"> International Biometric Society </a></li>
-  <li><strong>[2021-2022]</strong> Chair of the <a href="https://nyu-medicine-cssa.github.io" target="_blank"> Chinese Student and Scholar Association (CSSA)</a> at Grossman School of Medicine, New York University</li>
+
+  <li><a href="link.springer.com/book/10.1007/978-3-031-20429-6?sv1=affiliate&sv_campaign_id=685769&awc=26429_1702004966_de8ef54fa6f34ba56622f00cc14bfe8b&utm_medium=affiliate&utm_source=awin&utm_campaign=CONR_BOOKS_ECOM_DE_PHSS_ALWYS_DEEPLINK&utm_content=textlink&utm_term=685769" target="_blank"> 2nd International Conference on Emerging Technologies and Intelligent Systems </a></li>
+</li>
 </ul>
