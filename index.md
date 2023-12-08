@@ -1,7 +1,6 @@
 ---
 layout: homepage
----
----
+------
 
 Zhucheng joined the PhD studies in the School of Social Sciences | Edinburgh Business School at Heriot-Watt University in September 2022. His research interests lie in quantitative marketing, including live streaming commerce, celebrity endorsement and brand marketing. Prior to PhD studies, he graduated from UCSI University with a BA in Business Administration (first-class honour). <br>
 
