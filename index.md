@@ -5,11 +5,11 @@ Zhucheng joined the PhD studies in the School of Social Sciences | Edinburgh Bus
 As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. His research is intricately linked to the challenges prevailing in the industry and academia. His objective is to ardently contribute to advancing the frontiers of science through my research and to be devoted to broadening the horizons of knowledge to enhance the industry.
 
 ## Research Interests
-- **Manifold Learning:** positive semi-definite manifolds learning
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
-
+Live Streaming Commerce
+Celebrity Endorsement
+Brand Marketing
+Consumer Studies
+Quantitative Research Methods
 
 ## Awards
 - **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
