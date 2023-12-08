@@ -34,7 +34,7 @@ As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. H
 ## Skill
 - Partial Least Squares Structural Equation Modeling (PLS-SEM)
 - Artificial Neural Network (ANN)
-- fuzzy set qualitative comparative analysis (fsQCA)
+- Fuzzy set Qualitative Comparative Analysis (fsQCA)
 - Regression Analysis
 - Necessary Condition Analysis (NCA)
 
