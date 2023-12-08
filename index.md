@@ -16,7 +16,7 @@ As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. H
 - Quantitative Research Methods
 
 ## Awards
-- **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
+- **[hahMay. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
 
 
 <!-- {% include_relative _includes/publications.md %} -->
