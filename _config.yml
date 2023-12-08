@@ -9,8 +9,7 @@ subaffiliation: School of Social Sciences | Edinburgh Business School
 affiliation_link: https://www.hw.ac.uk/
 subaffiliation_link: https://www.hw.ac.uk/ebs/
 email: zs2037@hw.ac.uk
-address: Gait 11, The Avenue, Edinburgh EH14 4AS, United Kingdom
-1, Jalan Venna P5/2, Precinct 5, 62200 Putrajaya, Malaysia
+address: Gait 11, The Avenue, Edinburgh EH14 4AS, United Kingdom | 1, Jalan Venna P5/2, Precinct 5, 62200 Putrajaya, Malaysia
 subaffiliation_address: 1, Jalan Venna P5/2, Precinct 5, 62200 Putrajaya, Malaysia
 address_link: https://maps.app.goo.gl/wqT636ubkGKchCyA8
 subaddress_link: https://maps.app.goo.gl/awnMz3QzVMCMdjWcA
@@ -25,7 +24,7 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=bePCCD8AAAAJ&hl=en
+google_scholar: https://scholar.google.com/
 cv_link: 
 github_link: https://github.com/zhucheng-shao
 linkedin: https://www.linkedin.com/in/zhucheng-shao-40882921a/
