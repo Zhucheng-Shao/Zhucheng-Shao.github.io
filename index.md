@@ -9,11 +9,11 @@ As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. H
 
 
 ## Research Interests
-- **Manifold Learning:** positive semi-definite manifolds learning
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **Functional Data Analysis:** functional regression, and clustering methods
-- **High-Dimensional Statistics:** matrix-valued regression and clustering, positive semi-definite matrices estimations
-
+- Live Streaming Commerce
+- Celebrity Endorsement
+- Brand Marketing
+- Consumer Studies
+- Quantitative Research Methods
 
 ## Awards
 - **[May. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*MacCracken Awards*</a> for outstanding research and activities
