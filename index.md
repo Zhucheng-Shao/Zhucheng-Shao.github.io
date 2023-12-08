@@ -16,6 +16,10 @@ I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_bla
 
 Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
 
+Zhucheng joined the PhD studies in the School of Social Sciences | Edinburgh Business School at Heriot-Watt University in September 2022. His research interests lie in quantitative marketing, including live streaming commerce, celebrity endorsement and brand marketing. Prior to PhD studies, he graduated from UCSI University with a BA in Business Administration (first-class honour).
+
+As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. His research is intricately linked to the challenges prevailing in the industry and academia. His objective is to ardently contribute to advancing the frontiers of science through my research and to be devoted to broadening the horizons of knowledge to enhance the industry.
+
 
 ## Research Interests
 - **Manifold Learning:** positive semi-definite manifolds learning
