@@ -20,5 +20,4 @@
 <ul style="margin:0 0 20px;">
 
   <li><a href="link.springer.com/book/10.1007/978-3-031-20429-6?sv1=affiliate&sv_campaign_id=685769&awc=26429_1702004966_de8ef54fa6f34ba56622f00cc14bfe8b&utm_medium=affiliate&utm_source=awin&utm_campaign=CONR_BOOKS_ECOM_DE_PHSS_ALWYS_DEEPLINK&utm_content=textlink&utm_term=685769" target="_blank"> 2nd International Conference on Emerging Technologies and Intelligent Systems </a></li>
-</li>
 </ul>
