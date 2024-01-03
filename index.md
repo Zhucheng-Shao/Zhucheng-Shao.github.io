@@ -44,12 +44,6 @@ As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. H
 <b>Journal of Research in Interactive Marketing</b> <br>
 
 
-<!-- {% include_relative _includes/publications.md %} -->
-
-{% include_relative _includes/projects.md %}
-
-
-
 
 
 {% include_relative _includes/services.md %}
