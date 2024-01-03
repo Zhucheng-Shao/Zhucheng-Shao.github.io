@@ -39,9 +39,9 @@ As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. H
 - Necessary Condition Analysis (NCA)
 
 ## Publication
-[How the characteristics of social media influencers and live content influence consumers' impulsive buying in live streaming commerce? The role of congruence and attachment](https://www.emerald.com/insight/content/doi/10.1108/JRIM-08-2023-0277/full/html) </b> <br>
-Zhucheng Shao <br>
-Journal of Research in Interactive Marketing <br>
+<b>[How the characteristics of social media influencers and live content influence consumers' impulsive buying in live streaming commerce? The role of congruence and attachment](https://www.emerald.com/insight/content/doi/10.1108/JRIM-08-2023-0277/full/html)</b> <br>
+<b>Zhucheng Shao</b> <br>
+<b>Journal of Research in Interactive Marketing</b> <br>
 
 
 <!-- {% include_relative _includes/publications.md %} -->
