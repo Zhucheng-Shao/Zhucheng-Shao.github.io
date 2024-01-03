@@ -48,13 +48,6 @@ Journal of Research in Interactive Marketing <br>
 
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/talks.md %}
-
-
-
-
-
-
 
 
 
