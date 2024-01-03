@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Zhucheng joined the PhD study in the School of Social Sciences & Edinburgh Business School at Heriot-Watt University in September 2022. His research interests lie in quantitative marketing, including live streaming commerce, celebrity endorsement and brand marketing. Prior to PhD studies, he graduated from UCSI University with a BA in Business Administration (first-class honour). <br>
+Zhucheng started the PhD study in the School of Social Sciences & Edinburgh Business School at Heriot-Watt University in September 2022. His research interests lie in quantitative marketing, including live streaming commerce, celebrity endorsement and brand marketing. Prior to PhD studies, he graduated from UCSI University with a BA in Business Administration (first-class honour). <br>
 
 As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. His research is intricately linked to the challenges prevailing in the industry and academia. His objective is to ardently contribute to advancing the frontiers of science through research and to be devoted to broadening the horizons of knowledge to enhance the industry. <br>
 
@@ -16,7 +16,7 @@ As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. H
 
 - <b>Heriot-Watt University </b> <br>
   2022 - Present <br>
-  PhD in Marketing <br>
+  PhD in Business and Administration (Marketing) <br>
   Supervisor(s): Assoc. Prof. [Jessica Sze Yin Ho](https://www.hw.ac.uk/ebs/people/faculty/jessica-sze-yin-ho.htm), Assoc. Prof. [Ian Grant](https://www.hw.ac.uk/ebs/people/faculty/ian-grant.htm) <br>
 
 - <b>UCSI University </b> <br>
