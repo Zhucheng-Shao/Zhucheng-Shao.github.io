@@ -8,14 +8,14 @@
   <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
 </ul> -->
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://onlinelibrary.wiley.com/journal/14706431" target="_blank"> International Journal of Consumer Studies </a></li>
   <li><a href="https://www.emerald.com/insight/publication/issn/2040-7122" target="_blank"> Journal of Research in Interactive Marketing </a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
 <ul style="margin:0 0 20px;">
 
