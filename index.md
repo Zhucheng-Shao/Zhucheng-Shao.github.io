@@ -24,7 +24,7 @@ As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. H
   BA in Business Administration <br>
   Supervisor: Dr. [Remie Johan](https://www.ucsiuniversity.edu.my/dr-mohd-remie-mohd-johan) <br>
 
-## Research Interests
+## Research Interest
 - Live Streaming Commerce
 - Celebrity Endorsement
 - Brand Marketing
