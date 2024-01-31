@@ -44,12 +44,11 @@ As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. H
 <b>Journal of Research in Interactive Marketing</b> <br>
 Citation: Shao, Z. (2023). How the characteristics of social media influencers and live content influence consumers’ impulsive buying in live streaming commerce? The role of congruence and attachment. *Journal of Research in Interactive Marketing*, ahead-of-print(ahead-of-print). https://doi.org/10.1108/JRIM-08-2023-0277
 
-
-<br>
 <b>[From human to virtual: Unmasking consumer switching intentions to virtual influencers by an integrated fsQCA and NCA method](https://www.sciencedirect.com/science/article/abs/pii/S0969698924000110) </b> <br>
 <b>Zhucheng Shao</b> <br>
 <b>Journal of Retailing and Consumer Services <br>
 Citation: Shao, Z. (2024). From human to virtual: Unmasking consumer switching intentions to virtual influencers by an integrated fsQCA and NCA method. *Journal of Retailing and Consumer Services*, 78, 103715. https://doi.org/10.1016/j.jretconser.2024.103715
+
 
 {% include_relative _includes/services.md %}
 
