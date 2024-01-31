@@ -9,11 +9,6 @@ Zhucheng started the PhD study in the School of Social Sciences & Edinburgh Busi
 As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. His research is intricately linked to the challenges prevailing in the industry and academia. His objective is to ardently contribute to advancing the frontiers of science through research and to be devoted to broadening the horizons of knowledge to enhance the industry. <br>
 
 ## Education
-- <b>Heriot-Watt University</b> <br>
-  2023 <br>
-  PG Certificate in Business Research Methods <br>
-  Grade: Distinction
-
 - <b>Heriot-Watt University </b> <br>
   2022 - Present <br>
   PhD in Business and Administration (Marketing) <br>
@@ -25,11 +20,11 @@ As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. H
   Supervisor: Dr. [Remie Johan](https://www.ucsiuniversity.edu.my/dr-mohd-remie-mohd-johan) <br>
 
 ## Certificate
-- <b>PG Certificate in Business Research Methods <br>
+- [PG Certificate in Business Research Methods](https://www.hw.ac.uk/uk/study/postgraduate/pre-doctoral-programme.htm) <br>
   Grade: Distinction
-  2023
-- <b>CDP (Continuing Professional Development) Certificate <br>
-  2023
+  Date of Grant: 2023
+- [CDP (Continuing Professional Development) Certificate](https://cpduk.co.uk/) <br>
+  Date of Grant: 2023
 
 ## Research Interest
 - Live Streaming Commerce
