@@ -31,9 +31,6 @@ Citation: Shao, Z. (2023). How the characteristics of social media influencers a
 <b>Journal of Retailing and Consumer Services</b> <br>
 Citation: Shao, Z. (2024). From human to virtual: Unmasking consumer switching intentions to virtual influencers by an integrated fsQCA and NCA method. *Journal of Retailing and Consumer Services*, 78, 103715. https://doi.org/10.1016/j.jretconser.2024.103715
 
-## Research Interest
-- Live Streaming Commerce
-- Quantitative Research Methods
 
 ## Certificate
 - [PG Certificate in Business Research Methods](https://www.hw.ac.uk/uk/study/postgraduate/pre-doctoral-programme.htm) <br>
