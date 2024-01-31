@@ -29,12 +29,9 @@ As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. H
 
 ## Research Interest
 - Live Streaming Commerce
-- Celebrity Endorsement
-- Brand Marketing
-- Consumer Studies
 - Quantitative Research Methods
 
-## Skill
+## Research Skill
 - Partial Least Squares Structural Equation Modeling (PLS-SEM)
 - Artificial Neural Network (ANN)
 - Fuzzy set Qualitative Comparative Analysis (fsQCA)
@@ -45,6 +42,7 @@ As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. H
 <b>[How the characteristics of social media influencers and live content influence consumers' impulsive buying in live streaming commerce? The role of congruence and attachment](https://www.emerald.com/insight/content/doi/10.1108/JRIM-08-2023-0277/full/html) </b> <br>
 <b>Zhucheng Shao</b> <br>
 <b>Journal of Research in Interactive Marketing</b> <br>
+Citation: Shao, Z. (2023), "How the characteristics of social media influencers and live content influence consumers' impulsive buying in live streaming commerce? The role of congruence and attachment", <*>Journal of Research in Interactive Marketing<*>, Vol. ahead-of-print No. ahead-of-print. https://doi.org/10.1108/JRIM-08-2023-0277
 
 {% include_relative _includes/services.md %}
 
