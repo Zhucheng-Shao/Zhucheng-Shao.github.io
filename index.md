@@ -17,14 +17,15 @@ As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. H
 - <b>UCSI University </b> <br>
   2019 - 2022 <br>
   BA in Business Administration <br>
+  Grade: First-class Honour <br>
   Supervisor: Dr. [Remie Johan](https://www.ucsiuniversity.edu.my/dr-mohd-remie-mohd-johan) <br>
 
 ## Certificate
 - [PG Certificate in Business Research Methods](https://www.hw.ac.uk/uk/study/postgraduate/pre-doctoral-programme.htm) <br>
-  Grade: Distinction
-  Date of Grant: 2023
+  Grade: Distinction <br>
+  Date of Grant: 2023 <br>
 - [CDP (Continuing Professional Development) Certificate](https://cpduk.co.uk/) <br>
-  Date of Grant: 2023
+  Date of Grant: 2023 <br>
 
 ## Research Interest
 - Live Streaming Commerce
