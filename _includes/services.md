@@ -13,7 +13,7 @@
 <ul style="margin:0 0 20px;">
   <li><a href="https://onlinelibrary.wiley.com/journal/14706431" target="_blank"> International Journal of Consumer Studies </a></li>
   <li><a href="https://www.emerald.com/insight/publication/issn/2040-7122" target="_blank"> Journal of Research in Interactive Marketing </a></li>
-  <li><a href="https://www.inderscience.com/jhome.php?jcode=ijmc"_blank"> International Journal of Mobile Communications
+  <li><a href="https://www.inderscience.com/jhome.php?jcode=ijmc" target="_blank"> International Journal of Mobile Communications
  </a></li>
 </ul>
 
