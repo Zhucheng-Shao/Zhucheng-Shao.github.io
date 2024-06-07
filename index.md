@@ -24,12 +24,22 @@ As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. H
 <b>[How the characteristics of social media influencers and live content influence consumers' impulsive buying in live streaming commerce? The role of congruence and attachment](https://www.emerald.com/insight/content/doi/10.1108/JRIM-08-2023-0277/full/html) </b> <br>
 <b>Zhucheng Shao</b> <br>
 <b>Journal of Research in Interactive Marketing</b> <br>
-Citation: Shao, Z. (2023). How the characteristics of social media influencers and live content influence consumers’ impulsive buying in live streaming commerce? The role of congruence and attachment. *Journal of Research in Interactive Marketing*, ahead-of-print(ahead-of-print). https://doi.org/10.1108/JRIM-08-2023-0277
+To cite: Shao, Z. (2023). How the characteristics of social media influencers and live content influence consumers’ impulsive buying in live streaming commerce? The role of congruence and attachment. *Journal of Research in Interactive Marketing*, ahead-of-print(ahead-of-print). https://doi.org/10.1108/JRIM-08-2023-0277
 
 <b>[From human to virtual: Unmasking consumer switching intentions to virtual influencers by an integrated fsQCA and NCA method](https://www.sciencedirect.com/science/article/abs/pii/S0969698924000110) </b> <br>
 <b>Zhucheng Shao</b> <br>
 <b>Journal of Retailing and Consumer Services</b> <br>
-Citation: Shao, Z. (2024). From human to virtual: Unmasking consumer switching intentions to virtual influencers by an integrated fsQCA and NCA method. *Journal of Retailing and Consumer Services*, 78, 103715. https://doi.org/10.1016/j.jretconser.2024.103715
+To cite: Shao, Z. (2024). From human to virtual: Unmasking consumer switching intentions to virtual influencers by an integrated fsQCA and NCA method. *Journal of Retailing and Consumer Services*, 78, 103715. https://doi.org/10.1016/j.jretconser.2024.103715
+
+<b>[Will social media celebrities drive me crazy? Exploring the effects of celebrity endorsement on impulsive buying behavior in social commerce] </b> <br>
+<b> Zhucheng Shao </b>, Jessica Sze Yin Ho, Garry Wei‐Han Tan, Keng‐Boon Ooi, Charles Dennis <br>
+<b> International Journal of Consumer Studies <b>
+To cite: Shao, Z., Ho, J. S. Y., Tan, G. W. H., Ooi, K. B., & Dennis, C. (2024). Will social media celebrities drive me crazy? Exploring the effects of celebrity endorsement on impulsive buying behavior in social commerce. International Journal of Consumer Studies, 48(3), e13047.
+
+<b>[How celebrity attributes damage customer–brand relationship in live streaming commerce: a dark side] <br>
+<b> Zhucheng Shao </b> Jessica Sze Yin Ho, Garry Wei-Han Tan, Keng-Boon Ooi, Prianka Sarker, Yogesh K Dwivedi <br>
+<b> Journal of Brand Management <br>
+To cite: Shao, Z., Ho, J. S. Y., Tan, G. W. H., Ooi, K. B., Sarker, P., & Dwivedi, Y. K. (2024). How celebrity attributes damage customer–brand relationship in live streaming commerce: a dark side. Journal of Brand Management, 1-23.
 
 
 ## Certificate
@@ -41,3 +51,4 @@ Citation: Shao, Z. (2024). From human to virtual: Unmasking consumer switching i
 
 {% include_relative _includes/services.md %}
 
+## Contact for Cooperation
