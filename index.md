@@ -36,7 +36,7 @@ To cite: Shao, Z. (2024). From human to virtual: Unmasking consumer switching in
 <b> International Journal of Consumer Studies </b> <br>
 To cite: Shao, Z., Ho, J. S. Y., Tan, G. W. H., Ooi, K. B., & Dennis, C. (2024). Will social media celebrities drive me crazy? Exploring the effects of celebrity endorsement on impulsive buying behavior in social commerce. International Journal of Consumer Studies, 48(3), e13047.
 
-<b>[How celebrity attributes damage customer–brand relationship in live streaming commerce: a dark side](https://link.springer.com/article/10.1057/s41262-024-00362-z?sv1=affiliate&sv_campaign_id=1035097&awc=26429_1717728053_866de88a392f61c875db24de51a7b57d&utm_medium=affiliate&utm_source=awin&utm_campaign=CONR_BOOKS_ECOM_DE_PBOK_ALWYS_DEEPLINK&utm_content=textlink&utm_term=1035097) <br>
+<b>[How celebrity attributes damage customer–brand relationship in live streaming commerce: a dark side](https://link.springer.com/article/10.1057/s41262-024-00362-z?sv1=affiliate&sv_campaign_id=1035097&awc=26429_1717728053_866de88a392f61c875db24de51a7b57d&utm_medium=affiliate&utm_source=awin&utm_campaign=CONR_BOOKS_ECOM_DE_PBOK_ALWYS_DEEPLINK&utm_content=textlink&utm_term=1035097) </b> <br>
 <b> Zhucheng Shao </b>, Jessica Sze Yin Ho, Garry Wei-Han Tan, Keng-Boon Ooi, Prianka Sarker, Yogesh K Dwivedi <br>
 <b> Journal of Brand Management </b> <br>
 To cite: Shao, Z., Ho, J. S. Y., Tan, G. W. H., Ooi, K. B., Sarker, P., & Dwivedi, Y. K. (2024). How celebrity attributes damage customer–brand relationship in live streaming commerce: a dark side. Journal of Brand Management, 1-23.
