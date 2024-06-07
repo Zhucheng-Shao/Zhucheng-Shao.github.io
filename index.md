@@ -11,7 +11,7 @@ As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. H
 ## Education
 - <b>Heriot-Watt University </b> <br>
   Class 2022 <br>
-  PhD in Business and Administration (Marketing) <br>
+  PhD in Marketing <br>
   Supervisor(s): Assoc. Prof. [Jessica Sze Yin Ho](https://www.hw.ac.uk/ebs/people/faculty/jessica-sze-yin-ho.htm), Assoc. Prof. [Ian Grant](https://www.hw.ac.uk/ebs/people/faculty/ian-grant.htm) <br>
 
 - <b>UCSI University </b> <br>
