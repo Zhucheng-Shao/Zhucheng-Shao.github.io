@@ -24,7 +24,7 @@ As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. H
 <b>[Understanding the switching intention to virtual streamers in live streaming commerce: innovation resistances, shopping motivations and personalities](https://www.emerald.com/insight/content/doi/10.1108/jrim-10-2023-0355/full/html) </b> <br>
 <b>Zhucheng Shao</b> <br>
 <b>Journal of Research in Interactive Marketing</b> <br>
-To cite:Shao, Z. (2024). Understanding the switching intention to virtual streamers in live streaming commerce: innovation resistances, shopping motivations and personalities. Journal of Research in Interactive Marketing.
+To cite:Shao, Z. (2024). Understanding the switching intention to virtual streamers in live streaming commerce: innovation resistances, shopping motivations and personalities. *Journal of Research in Interactive Marketing*.
 
 <b>[How the characteristics of social media influencers and live content influence consumers' impulsive buying in live streaming commerce? The role of congruence and attachment](https://www.emerald.com/insight/content/doi/10.1108/JRIM-08-2023-0277/full/html) </b> <br>
 <b>Zhucheng Shao</b> <br>
