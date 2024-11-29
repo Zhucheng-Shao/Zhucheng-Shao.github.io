@@ -60,5 +60,3 @@ To cite: Shao, Z., Ho, J. S. Y., Tan, G. W. H., Ooi, K. B., Sarker, P., & Dwived
   Date of Grant: 2023 <br>
 
 {% include_relative _includes/services.md %}
-
-## Contact for Cooperation
