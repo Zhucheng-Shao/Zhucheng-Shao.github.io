@@ -16,7 +16,6 @@
   <li><a href="https://www.inderscience.com/jhome.php?jcode=ijmc" target="_blank"> International Journal of Mobile Communications
   <li><a href="https://www.emerald.com/insight/publication/issn/1066-2243" target="_black"> Internet Research
  </a></li>
-</ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
