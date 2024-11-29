@@ -21,6 +21,11 @@ As a PhD candidate, Zhucheng considers himself a solution-oriented researcher. H
   Supervisor: Dr. [Remie Johan](https://www.ucsiuniversity.edu.my/dr-mohd-remie-mohd-johan) <br>
 
 ## Publication
+<b>[Revealing consumers’ hedonic buying in social media: the roles of social status recognition, perceived value, immersive engagement and gamified incentives](https://www.emerald.com/insight/content/doi/10.1108/JRIM-12-2023-0452/full/html) </b> <br>
+<b>Zhucheng Shao</b> <br>
+<b>Journal of Research in Interactive Marketing</b> <br>
+To cite: Shao, Z. (2024). Revealing consumers’ hedonic buying in social media: the roles of social status recognition, perceived value, immersive engagement and gamified incentives. *Journal of Research in Interactive Marketing*.
+
 <b>[Understanding the switching intention to virtual streamers in live streaming commerce: innovation resistances, shopping motivations and personalities](https://www.emerald.com/insight/content/doi/10.1108/jrim-10-2023-0355/full/html) </b> <br>
 <b>Zhucheng Shao</b> <br>
 <b>Journal of Research in Interactive Marketing</b> <br>
