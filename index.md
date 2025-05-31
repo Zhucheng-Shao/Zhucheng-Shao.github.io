@@ -16,7 +16,12 @@ In addition, Dr Shao has been invited to serve as a peer reviewer for multiple S
   BA in Business Administration <br>
   Grade: First-class Honour <br>
 
-## Publication
+## Recent Publication
+<b>[Revealing the resistance of virtual streamers: intrusiveness, privacy disclosure and perceived justice](https://www.emerald.com/insight/content/doi/10.1108/apjml-12-2024-1895/full/html) </b> <br>
+<b>Zhucheng Shao, Jessica Sze Yin Ho </b> <br>
+<b>Asia Pacific Journal of Marketing and Logistics </b> <br>
+To cite: Shao, Z. and Ho, J.S.Y. (2025), "Revealing the resistance of virtual streamers: intrusiveness, privacy disclosure and perceived justice", *Asia Pacific Journal of Marketing and Logistics*, Vol. ahead-of-print No. ahead-of-print. https://doi.org/10.1108/APJML-12-2024-1895
+
 <b>[Revealing consumers’ hedonic buying in social media: the roles of social status recognition, perceived value, immersive engagement and gamified incentives](https://www.emerald.com/insight/content/doi/10.1108/JRIM-12-2023-0452/full/html) </b> <br>
 <b>Zhucheng Shao</b> <br>
 <b>Journal of Research in Interactive Marketing</b> <br>
