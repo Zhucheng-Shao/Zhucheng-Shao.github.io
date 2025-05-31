@@ -54,9 +54,9 @@ To cite: Shao, Z., Ho, J. S. Y., Tan, G. W. H., Ooi, K. B., Sarker, P., & Dwived
 
 
 ## Certificate
-- [Best Presenter Award]
-  Grant by: 2024 International Conference on Partial Least Squares Structural Equation Modeling (PLS-SEM)
-  Date of Grant: 2024
+- Best Presenter Award <br>
+  Grant by: 2024 International Conference on Partial Least Squares Structural Equation Modeling (PLS-SEM) <br>
+  Date of Grant: 2024 <br>
 - [PG Certificate in Business Research Methods](https://www.hw.ac.uk/uk/study/postgraduate/pre-doctoral-programme.htm) <br>
   Grade: Distinction <br>
   Date of Grant: 2023 <br>
