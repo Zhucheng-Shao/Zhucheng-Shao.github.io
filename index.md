@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Dr Zhucheng Shao obtained his Doctor of Philosophy (PhD) in Business Administration from Heriot-Watt University. His primary research interests lie in the fields of marketing and psychology, with a particular focus on consumer behavior, brand marketing, and celebrity endorsement.
+Dr Zhucheng Shao obtained his Doctor of Philosophy (PhD) in Business and Administration from Heriot-Watt University. His primary research interests lie in the fields of marketing and psychology, with a particular focus on consumer behavior, brand marketing, and celebrity endorsement.
 In recent years, Dr Shao has published several academic articles in SSCI-indexed journals as either the sole author or first author. His research has appeared in internationally renowned SSCI Q1 and Q2 journals, including the Journal of Retailing and Consumer Services, Journal of Research in Interactive Marketing, International Journal of Consumer Studies, Journal of Brand Management, and Asia Pacific Journal of Marketing and Logistics. Several of these publications have been recognized as ESI Highly Cited Papers, reflecting their significant academic influence.
 In addition, Dr Shao has been invited to serve as a peer reviewer for multiple SCI/SSCI/ESCI-indexed academic journals and international conferences, actively contributing to international academic exchange and scholarly peer review. <br>
 
