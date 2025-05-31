@@ -54,11 +54,27 @@ To cite: Shao, Z., Ho, J. S. Y., Tan, G. W. H., Ooi, K. B., Sarker, P., & Dwived
 
 
 ## Certificate
-- [Best Presenter Award in 2024 International Conference on Partial Least Squares Structural Equation Modeling (PLS-SEM)]
+- [Best Presenter Award]
+  Grant by: 2024 International Conference on Partial Least Squares Structural Equation Modeling (PLS-SEM)
+  Date of Grant: 2024
 - [PG Certificate in Business Research Methods](https://www.hw.ac.uk/uk/study/postgraduate/pre-doctoral-programme.htm) <br>
   Grade: Distinction <br>
   Date of Grant: 2023 <br>
 - [CDP (Continuing Professional Development) Certificate](https://cpduk.co.uk/) <br>
   Date of Grant: 2023 <br>
 
-{% include_relative _includes/services.md %}
+## Academic Service
+- Editoral Team or Reviewer for Journal <br>
+  Journal of Retailing and Consumer Services (SSCI Q1) <br>
+  International Journal of Consumer Studies (SSCI Q1) <br>
+  Internet Research (SSCI Q1; ABS 3) <br>
+  Journal of Research in Interactive Marketing (SSCI Q1) <br>
+  Information Processing and Management (SSCI Q1) <br>
+  Current Psychology (SSCI Q2) <br>
+  Asia Pacific Journal of Marketing and Logistics (SSCI Q2) <br>
+
+- Panel Judge or Examiner for Conference <br>
+  International Conference on Emerging Technologies and Intelligent Systems <br>
+  The Mystique of Luxury Brands Conference <br>
+  
+  
