@@ -30,7 +30,7 @@ To cite: Shao, Z. (2024). Revealing consumers’ hedonic buying in social media:
 <b>[Understanding the switching intention to virtual streamers in live streaming commerce: innovation resistances, shopping motivations and personalities](https://www.emerald.com/insight/content/doi/10.1108/jrim-10-2023-0355/full/html) </b> <br>
 <b>Zhucheng Shao</b> <br>
 <b>Journal of Research in Interactive Marketing</b> <br>
-To cite:Shao, Z. (2024). Understanding the switching intention to virtual streamers in live streaming commerce: innovation resistances, shopping motivations and personalities. *Journal of Research in Interactive Marketing*.
+To cite: Shao, Z. (2024). Understanding the switching intention to virtual streamers in live streaming commerce: innovation resistances, shopping motivations and personalities. *Journal of Research in Interactive Marketing*.
 
 <b>[How the characteristics of social media influencers and live content influence consumers' impulsive buying in live streaming commerce? The role of congruence and attachment](https://www.emerald.com/insight/content/doi/10.1108/JRIM-08-2023-0277/full/html) </b> <br>
 <b>Zhucheng Shao</b> <br>
@@ -54,6 +54,7 @@ To cite: Shao, Z., Ho, J. S. Y., Tan, G. W. H., Ooi, K. B., Sarker, P., & Dwived
 
 
 ## Certificate
+- [Best Presenter Award in 2024 International Conference on Partial Least Squares Structural Equation Modeling (PLS-SEM)]
 - [PG Certificate in Business Research Methods](https://www.hw.ac.uk/uk/study/postgraduate/pre-doctoral-programme.htm) <br>
   Grade: Distinction <br>
   Date of Grant: 2023 <br>
